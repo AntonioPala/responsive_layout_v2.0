@@ -37,7 +37,7 @@ ul {
 }
 
 li {
-  background-color: white;
+  background-color: lightblue;
   margin-top: 0px;
   margin-bottom: 5px;
   margin-left: 10px;
@@ -128,6 +128,10 @@ p {
   content: "";
   clear: both;
   display: table;
+}
+
+.coloring {
+  color: #343477;
 }
 
 #portfolio, #contact, #experience {
@@ -329,6 +333,3 @@ p {
   }
 
 }
-
-/*Check bottom margins,
-center the main portfolio section and float the name and top nav for the last media query */
